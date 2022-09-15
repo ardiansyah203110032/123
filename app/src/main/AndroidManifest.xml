@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.a203110032per2">
-
+//pada kode program diats merupakan sebuah nama package dengan nama nim 203110032
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -27,3 +27,4 @@
     </application>
 
 </manifest>
+//pada sebuah kode program diatas memberikan sebuah akses kedalam halaman activty
